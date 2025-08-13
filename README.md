@@ -37,3 +37,11 @@ Also ensure to add your wordlist Path to the script under
 ```bash
 chmod +x SimplEnum.sh
 ./SimplEnum.sh
+
+
+---
+
+## Disclaimer
+
+This tool is intended for educational and authorized testing purposes only. Use responsibly and only on systems you have permission to test.
+
