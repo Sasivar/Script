@@ -25,15 +25,15 @@ Make sure the following tools are installed and accessible in your `$PATH`
 - `enum4linux`
 - `ftp` (standard CLI client)
 
-Also ensure these wordlists are available:
+Also ensure to add your wordlist Path to the script under
 
-- `/usr/share/wordlists/dirb/common.txt`
-- `/usr/share/wordlists/subdomains.txt`
+- DIR_WORDLIST=" "
+- SUBDOMAIN_WORDLIST-" "
 
 ---
 
 ## Usage
 
 ```bash
-chmod +x enumtool.sh
-./enumtool.sh
+chmod +x SimplEnum.sh
+./SimplEnum.sh
