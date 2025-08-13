@@ -37,6 +37,7 @@ Also ensure to add your wordlist Path to the script under
 ```bash
 chmod +x SimplEnum.sh
 ./SimplEnum.sh
+```
 
 
 ---
