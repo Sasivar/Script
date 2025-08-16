@@ -1,6 +1,6 @@
 # SimplEnum - Modular Enumeration Script
 
-SimplEnum is a Bash-based interactive enumeration script designed for penetration testers and CTF enthusiasts. It supports scanning and probing common services like HTTP, SMB, FTP, and DNS with a menu-driven interface.
+SimplEnum is a Bash-based interactive enumeration script Built for beginners diving into CTFs and hands-on hacking. It supports scanning and probing common services like HTTP, SMB, FTP, and DNS with a menu-driven interface.
 
 ---
 
